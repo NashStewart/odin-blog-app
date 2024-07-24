@@ -18,3 +18,42 @@ body {
   background: #1A1A1A;
   color: gray;
 }
+
+a {
+  color: #3399ff;
+}
+
+a:visited {
+  color: #944dff;
+}
+
+// * {
+//   // padding: 0px;
+//   // margin: 0px;
+//   box-sizing: border-box;
+// }
+// 
+// body {
+//   background: #1A1A1A;
+//   color: #a6a6a6;
+// }
+// 
+// button {
+//   border: none;
+//   border-radius: 8px;
+//   margin: 16px 0px;
+//   padding: 8px 32px;
+//   background: #6600ff; 
+//   color: white;
+//   font-size: 16px;
+// }
+// 
+// table {
+//   border-collapse: collapse;
+// }
+// 
+// td, th {
+//   border: 1px solid #999;
+//   padding: 8px 16px;
+//   text-align: left;
+// }
