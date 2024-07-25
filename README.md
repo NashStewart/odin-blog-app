@@ -1,24 +1,6 @@
-# README
+# Odin Blog App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+My submission for the [Blog App](https://www.theodinproject.com/lessons/ruby-on-rails-blog-app) assignment at [The Odin Project](https://www.theodinproject.com/).
 
-Things you may want to cover:
+This assignment follows the [Getting Started Chapter](https://guides.rubyonrails.org/getting_started.html) of the [Rails Guides](https://guides.rubyonrails.org/index.html)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
